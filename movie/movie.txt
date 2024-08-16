@@ -1,0 +1,568 @@
+[
+  {
+        "type": "movie",
+        "title": "nick.jr",
+        "imdb_id": "tt21237030",
+        "embed_url_imdb": "https://iptv.notflix.in/live-tv/nick-jr.html",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "ABS-CBN",
+        "imdb_id": "tt13655120",
+        "embed_url_imdb": "https://iptv.notflix.in/live-tv/abs-cbn.html",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "TV5",
+        "imdb_id": "tt13539646",
+        "embed_url_imdb": "https://iptv.notflix.in/live-tv/tv5.html",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Monster",
+        "imdb_id": "tt23736044",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt23736044",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Elemental",
+        "imdb_id": "tt15789038",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt15789038",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Slumdog Millionaire",
+        "imdb_id": "tt1010048",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1010048",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Hachi: A Dog's Tale",
+        "imdb_id": "tt1028532",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1028532",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Ratatouille",
+        "imdb_id": "tt0382932",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0382932",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "How to Train Your Dragon",
+        "imdb_id": "tt0892769",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0892769",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Hacksaw Ridge",
+        "imdb_id": "tt2119532",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt2119532",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Million Dollar Baby",
+        "imdb_id": "tt0405159",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0405159",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Godzilla Minus One",
+        "imdb_id": "tt23289160",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt23289160",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "The Truman Show",
+        "imdb_id": "tt0120382",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0120382",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Up",
+        "imdb_id": "tt1049413",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1049413",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Dangal",
+        "imdb_id": "tt5074352",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt5074352",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "3 Idiots",
+        "imdb_id": "tt1187043",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1187043",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Braveheart",
+        "imdb_id": "tt0112573",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0112573",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Gladiator",
+        "imdb_id": "tt0172495",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0172495",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Rebel Moon: Part One - A Child of Fire",
+        "imdb_id": "tt14998742",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt14998742",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Avengers: Endgame",
+        "imdb_id": "tt4154796",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt4154796",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Spider-Man: No Way Home",
+        "imdb_id": "tt10872600",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt10872600",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Forrest Gump",
+        "imdb_id": "tt0109830",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0109830",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "The Shawshank Redemption",
+        "imdb_id": "tt0111161",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0111161",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Joker",
+        "imdb_id": "tt7286456",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt7286456",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Top Gun: Maverick",
+        "imdb_id": "tt1745960",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1745960",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "The Boy and the Heron",
+        "imdb_id": "tt6587046",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt6587046",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Venom",
+        "imdb_id": "tt1270797",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1270797",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Avatar: The Way of Water",
+        "imdb_id": "tt1630029",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1630029",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Black Adam",
+        "imdb_id": "tt6443346",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt6443346",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "imdb_id": "tt9376612",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt9376612",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Eternals",
+        "imdb_id": "tt9032400",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt9032400",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Black Panther: Wakanda Forever",
+        "imdb_id": "tt9114286",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt9114286",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Shazam!",
+        "imdb_id": "tt0448115",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0448115",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Shazam! Fury of the Gods",
+        "imdb_id": "tt10151854",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt10151854",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "The Hows of Us",
+        "imdb_id": "tt8769032",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt8769032",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "imdb_id": "tt9419884",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt9419884",
+        "release": "new"
+    },
+  {
+        "type": "movie",
+        "title": "DogMan",
+        "imdb_id": "944401",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/944401"
+    },
+  {
+        "type": "movie",
+        "title": "Night Swim",
+        "imdb_id": "1072342",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1072342"
+    },
+  {
+        "type": "movie",
+        "title": "The Beekeeper",
+        "imdb_id": "866398",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/866398"
+    },
+  {
+        "type": "movie",
+        "title": "Ferrari",
+        "imdb_id": "365620",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/365620"
+    },
+  {
+        "type": "movie",
+        "title": "Wonka",
+        "imdb_id": "787699",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/787699"
+    },
+  {
+        "type": "movie",
+        "title": "Wish",
+        "imdb_id": "1022796",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1022796"
+    },
+  {
+        "type": "movie",
+        "title": "The Bricklayer",
+        "imdb_id": "927107",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/927107"
+    },
+  {
+        "type": "movie",
+        "title": "Society of the Snow",
+        "imdb_id": "906126",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/906126"
+    },
+  {
+        "type": "movie",
+        "title": "The Family Plan",
+        "imdb_id": "1029575",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1029575"
+    },
+  {
+        "type": "movie",
+        "title": "Aquaman and the Lost Kingdom",
+        "imdb_id": "572802",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/572802"
+    },
+  {
+        "type": "movie",
+        "title": "Silent Night",
+        "imdb_id": "891699",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/891699"
+    },
+  {
+        "type": "movie",
+        "title": "Leave the world behind",
+        "imdb_id": "tt12747748",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt12747748"
+    },
+  {
+        "type": "movie",
+        "title": "The Marvels",
+        "imdb_id": "609681",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/609681"
+    },
+   {
+        "type": "movie",
+        "title": "Napoleon",
+        "imdb_id": "tt13287846",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt13287846"
+    },
+    {
+        "type": "movie",
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "imdb_id": "tt10545296",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt10545296"
+    },
+    {
+        "type": "movie",
+        "title": "Resident Evil: Death Island",
+        "imdb_id": "1083862",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1083862"
+    },
+    {
+        "type": "movie",
+        "title": "Leo",
+        "imdb_id": "949229",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/949229"
+    },
+    {
+        "type": "movie",
+        "title": "Freelance",
+        "imdb_id": "897087",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/897087"
+    },
+    {
+        "type": "movie",
+        "title": "The Bodyguard",
+        "imdb_id": "315669",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/315669"
+    },
+    {
+        "type": "movie",
+        "title": "Meg 2: The Trench",
+        "imdb_id": "615656",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/615656"
+    },
+    {
+        "type": "movie",
+        "title": "Sniper: G.R.I.T",
+        "imdb_id": "1171541",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1171541"
+    },
+    {
+        "type": "movie",
+        "title": "The Last Voyage of the Demeter",
+        "imdb_id": "635910",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/635910"
+    },
+    {
+        "type": "movie",
+        "title": "Malibu Horror Story",
+        "imdb_id": "420637",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/420637"
+    },
+    {
+        "type": "movie",
+        "title": "No Hard Feelings",
+        "imdb_id": "tt15671028",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt15671028"
+    },
+    {
+        "type": "movie",
+        "title": "The Royal Hotel",
+        "imdb_id": "944952",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/944952"
+    },
+    {
+        "type": "movie",
+        "title": "A New Breed of Criminal",
+        "imdb_id": "tt21600628",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt21600628",
+        "tmdb_id": "1176503",
+        "embed_url_tmdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1176503"
+    },
+    {
+        "type": "movie",
+        "title": "The Exorcist: Believer",
+        "imdb_id": "807172",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/807172"
+    },
+    {
+        "type": "movie",
+        "title": "Killers of the Flower Moon",
+        "imdb_id": "466420",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/466420"
+    },
+    {
+        "type": "movie",
+        "title": "The Retirement Plan",
+        "imdb_id": "866346",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/866346"
+    },
+    {
+        "type": "movie",
+        "title": "Retribution",
+        "imdb_id": "762430",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/762430"
+    },
+    {
+        "type": "movie",
+        "title": "John Wick 4",
+        "imdb_id": "tt10366206",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt10366206"
+    },
+    {
+        "type": "movie",
+        "title": "The Burial",
+        "imdb_id": "tt5648882",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt5648882"
+    },
+    {
+        "type": "movie",
+        "title": "Concrete Utopia",
+        "imdb_id": "729854",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/729854"
+    },
+    {
+        "type": "movie",
+        "title": "Desperation Road",
+        "imdb_id": "1039690",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1039690"
+    },
+    {
+        "type": "movie",
+        "title": "Transformers: Rise of the Beasts",
+        "imdb_id": "667538",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/667538"
+    },
+    {
+        "type": "movie",
+        "title": "Haunted Mansion",
+        "imdb_id": "616747",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/616747"
+    },
+    {
+        "type": "movie",
+        "title": "Talk to me",
+        "imdb_id": "tt10638522",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt10638522"
+    },
+    {
+        "type": "movie",
+        "title": "The Little Mermaid",
+        "imdb_id": "tt5971474",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt5971474"
+    },
+    {
+        "type": "movie",
+        "title": "Nowhere",
+        "imdb_id": "tt15789472",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt15789472"
+    },
+    {
+        "type": "movie",
+        "title": "Oppenhiemer",
+        "imdb_id": "tt15398776",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt15398776"
+    },
+    {
+        "type": "movie",
+        "title": "The wonderful story of Henry Sugar",
+        "imdb_id": "tt16968450",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt16968450"
+    },
+    {
+        "type": "movie",
+        "title": "No one will save you",
+        "imdb_id": "tt14509110",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt14509110"
+    },
+    {
+        "type": "movie",
+        "title": "The Creator",
+        "imdb_id": "tt11858890",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt11858890"
+    },
+    {
+        "type": "movie",
+        "title": "Saw X",
+        "imdb_id": "tt21807222",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt21807222"
+    },
+    {
+        "type": "movie",
+        "title": "The Nun II",
+        "imdb_id": "tt10160976",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt10160976"
+    },
+    {
+        "type": "movie",
+        "title": "Grand Turismo",
+        "imdb_id": "tt4495098",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt4495098"
+    },
+    {
+        "type": "movie",
+        "title": "Blue Beetle",
+        "imdb_id": "tt9362930",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt9362930"
+    },
+    {
+        "type": "movie",
+        "title": "The Expend4bles",
+        "imdb_id": "tt3291150",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt3291150"
+    },
+    {
+        "type": "movie",
+        "title": "A Million Miles Away",
+        "imdb_id": "tt21940010",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt21940010"
+    },
+    {
+        "type": "movie",
+        "title": "The Equalizer 3",
+        "imdb_id": "tt17024450",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt17024450"
+    },
+    {
+        "type": "movie",
+        "title": "Mission Impossible: Dead Reckoning",
+        "imdb_id": "tt9603212",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt9603212"
+    },
+    {
+        "type": "movie",
+        "title": "Fast X",
+        "imdb_id": "385687",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/385687"
+    }
+]
